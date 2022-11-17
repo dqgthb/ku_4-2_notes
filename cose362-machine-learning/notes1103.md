@@ -239,6 +239,11 @@ Which of the following option is true about k-NN?
 - It can be used for both classification and regression
 
 Ans: the third
+3개를 찾아서 평균을 내어버리는 식으로 하면 되기 때문~ 와우 천재적
+
+다음이 바로 clustering을 배울 거에요.
+
+Clustering도 KNN이랑 비슷해요~ Instance를 통해서 grouping하는 거에요. 수고하셨습니다~
 
 
 
